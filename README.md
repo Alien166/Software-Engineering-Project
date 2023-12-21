@@ -1,6 +1,3 @@
-# Software-Engineering-Project
-
-
 # Clinic Management System
 
 ## Description
