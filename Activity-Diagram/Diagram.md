@@ -30,4 +30,4 @@ Activity diagrams provide a visual representation of the steps involved in perfo
   
 - **Communication:** Serves as a communication tool among stakeholders to understand system workflows and functionalities effectively.
 
-![Alt text](image_url "Activity-Diagram")
+![Alt text](Activity.png "Activity-Diagram")
