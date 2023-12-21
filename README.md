@@ -29,4 +29,4 @@ The project roadmap includes plans for future enhancements such as integrating a
 
 ## Acknowledgments
 We acknowledge the support and contributions from the open-source community, healthcare professionals, and users who have helped shape this Clinic Management System.
-![Alt text](image_url "Clinic Management System")
+![Alt text](CMS.png "Clinic Management System")
