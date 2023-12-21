@@ -1,4 +1,4 @@
-## Functional Requirements Specification
+# Functional Requirements Specification
 
    ### - patient must registration on the site.
    ### - patient must Schedule Appointments.
