@@ -9,3 +9,5 @@
    ### - System should support easy updates and enhancements without significant downtime.
    ### - System should comply with relevant healthcare data protection regulations, such as HIPAA.
    ### - System should support integration with external systems such as laboratory information systems and billing systems.
+   ### - System should be designed to accommodate a 50% increase in user load within the next 12 months.
+   ### - system should have an uptime of 99.9%
