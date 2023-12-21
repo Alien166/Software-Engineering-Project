@@ -18,13 +18,13 @@ Activity diagrams outline the sequence of activities performed by actors to achi
 - **Communication:** Acts as a communication tool among stakeholders to understand system workflows and functionalities.
 
 ### 1.patient
-![Alt text](image_url "patient")
+![Alt text](patient.png "patient")
 
 
 ### 2.Doctor
-![Alt text](image_url "Doctor")
+![Alt text](Doctor.png "Doctor")
 
 
 ### 3.Admin
-![Alt text](image_url "Admin ")
+![Alt text](Admin.png "Admin ")
 
