@@ -1,6 +1,6 @@
 ## Use Case Diagram in Clinic Management System (CMS)
 
-![Alt text](image_url "Optional title")
+![Alt text](Use-cases.png "Use-Case-Diagram")
 
 A Use Case Diagram in a Clinic Management System (CMS) represents the various interactions between users or external systems and the functionalities offered by the system. It visually illustrates the different use cases or actions that users can perform within the CMS.
 
