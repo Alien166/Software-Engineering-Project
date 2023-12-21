@@ -16,15 +16,10 @@ The Clinic Management System (CMS) repository houses the codebase for a comprehe
 - Ensure secure and compliant management of patient health records.
 - Enable robust reporting and analytics for clinic performance evaluation.
 
-## Contributing to the Repository
-Contributions, bug reports, feature requests, and improvements are welcome. Please refer to the contribution guidelines and code of conduct outlined in the repository.
 
 ## How to Use
 To use this Clinic Management System, follow the instructions outlined in the project's README file. This includes installation guidelines, setup procedures, and usage instructions.
 
-
-## Support and Feedback
-For support, inquiries, or feedback related to the Clinic Management System, please open an issue in the repository or contact the maintainers directly.
 
 ## Project Status
 This project is actively maintained and updated to incorporate new features, enhancements, and bug fixes.
@@ -34,6 +29,3 @@ The project roadmap includes plans for future enhancements such as integrating a
 
 ## Acknowledgments
 We acknowledge the support and contributions from the open-source community, healthcare professionals, and users who have helped shape this Clinic Management System.
-
-## Disclaimer
-This Clinic Management System is provided as-is, without warranties or guarantees. Users are encouraged to review and comply with relevant healthcare regulations and data security standards while using this software.
