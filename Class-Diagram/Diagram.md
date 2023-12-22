@@ -28,4 +28,4 @@ Class diagrams provide a static view of the CMS structure, showing the entities,
 
 - **System Development:** Acts as a blueprint for system developers to understand and implement the functionalities and relationships between classes effectively.
 
-![Alt text](class .png "Class Diagram")
+![Alt text](class.png "Class Diagram")
